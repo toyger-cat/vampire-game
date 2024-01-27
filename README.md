@@ -1,7 +1,7 @@
 > Thie project is developed by Qt using C++.
 
-|—shop\\
-|    |—全局强化\\
+|—shop\
+|    |—全局强化\
 |
 |—reset
 |   |—真正的重置游戏，全局强化会丢失
